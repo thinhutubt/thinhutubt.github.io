@@ -13,7 +13,7 @@ Thời gian: Ngày 28 tháng 01 năm 2017
 * Phần hướng dẫn bên dưới đã được thực hiện thành công trên hệ điều hành Ubuntu 16.04.
 
 * Mở cửa sổ Terminal và lần lượt thực hiện các lệnh sau (có yêu cầu nhập password khi cài đặt):
-		
+
 		sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys BA300B7755AFCFAE
 		
 		sudo add-apt-repository 'deb https://typora.io ./linux/'
